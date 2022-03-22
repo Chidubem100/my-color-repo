@@ -1,0 +1,32 @@
+#stripe{
+	background-color: blue;
+	text-align: center;
+	height: 40px;
+}
+.selected{
+	background-color: black;
+	color: white;
+}
+.drake{
+	background-color: black;
+	color: white;
+	border-radius: 40px 20px;
+}
+.change{
+	background-color: black;
+	color: white;
+}
+.square{
+	width: 30%;
+	background: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+}
+#container{
+	max-width: 700px;
+	margin: 50px auto;
+}
+h1{
+	color: blue;
+}
